@@ -9,7 +9,7 @@ This project leverages convolutional neural networks (CNNs) to develop an accura
 - Sex Classification: Determines the gender of individuals based on their facial features.
 - Age Regression: Estimates the age of individuals from facial images.
 - Robust Analysis: Utilizes deep learning to capture complex and subtle variations in facial appearance.
-- 
+
 ## Applications
 - Healthcare: Accurate age estimation aids in patient profiling and personalized treatment planning.
 - Biometrics and Security: Enhances the accuracy and reliability of facial recognition systems.
